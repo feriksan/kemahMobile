@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Kemah</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Username / Email Address</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="repeatPassword">Repeat Password</string>
+    <string name="phoneNumber">Phone Number</string>
+    <string name="noAccount">Dont Have Account? </string>
+    <string name="logout">Logout</string>
+
+    <string name="firstNameHint">John</string>
+    <string name="lastNameHint">Doe</string>
+    <string name="repeatPasswordHint">Re-enter password</string>
+    <string name="phoneNumberHint">Enter phone number</string>
+    <string name="email_hint">user@kemah.com</string>
+    <string name="pass_hint">Your secret password</string>
+</resources>
